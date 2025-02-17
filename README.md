@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I,m Timileyin Abdulsalam👋
+
+I'm a Data Analyst passionate about using data-driven insights to solve complex business challenges.
 
 <!--
 **Timi4real1/Timi4real1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
