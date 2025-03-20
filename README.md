@@ -5,6 +5,7 @@
         <h1>Timileyin Abdulsalam 👋</h1>
         <p>🚀 Product Owner | 📊 Data Analyst</p>
         <p>Passionate about leveraging data for better product experiences and to solve business problems.</p>
+        <p>I recently worked on a project which was aimed at solving the water issues in Africa.</p>
         <h3>📬 Looking to collaborate on any project? Connect with Me</h3>
         <div class="socials">
             <a href="https://x.com/salami_timi" target="_blank">Twitter</a>
