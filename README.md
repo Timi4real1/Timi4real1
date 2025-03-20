@@ -45,14 +45,16 @@
         <h2>🎯 My Goals</h2>
         <ul style="text-align: left; display: inline-block;">
             <li>📊 Transition into a Product Ownership & Data Analytics hybrid role</li>
+            <li>🎓 Awaiting Mastercard Scholarship results for Cambridge University</li>
             <li>⏳ Improving time management & collaboration skills</li>
+            <li>💡 Supporting education & poverty eradication efforts</li>
         </ul>
         
         <h2>📬 Connect with Me</h2>
         <div class="socials">
             <a href="https://x.com/salami_timi" target="_blank">Twitter</a>
-            <a href="linkedin.com/in/timileyinabdulsalam" target="_blank">LinkedIn</a>
-            <a href="https://timi4real1.github.io" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/timileyinabdulsalam" target="_blank">LinkedIn</a>
+            <a href="https://timi4real1.github.io/" target="_blank">GitHub</a>
         </div>
     </div>
 </body>
